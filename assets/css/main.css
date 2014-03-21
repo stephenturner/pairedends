@@ -295,7 +295,7 @@ a:after {
 #headerwrap h1 {
 	color:#ffffff;
 	margin-top: 90px;
-	padding-bottom: 30px;
+	padding-bottom: 20px;
 	letter-spacing: 8px;
 	font-size: 100px;
 	font-weight: bold;
@@ -304,25 +304,25 @@ a:after {
 
 #headerwrap h2 {
     color:#ffffff;
-    font-size: 65px;
+    font-size: 70px;
     font-weight: 600;
     text-align: center;
-    line-height: 40px;
+    line-height: 60px;
     letter-spacing: 3px;
     margin-left: 15px;
-    text-shadow: 1px 1px 1px #000;
-}
+/*    text-shadow: 1px 1px 1px #000;
+*/}
 
 #headerwrap p {
     color:#ffffff;
-    font-size: 25px;
+    font-size: 28px;
     font-weight: 400;
     text-align: center;
     line-height: 40px;
     letter-spacing: 3px;
     margin-left: 15px;
-    text-shadow: 1px 1px 1px #000;
-}
+/*    text-shadow: 1px 1px 1px #000;
+*/}
 
 
 #greywrap {
